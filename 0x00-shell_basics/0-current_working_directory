@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-pwd
-=======
 chmod ./0-current_working_directory
->>>>>>> a95bc6609fa84f8d6d57688b99308a0a66f0aa3d
